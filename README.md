@@ -1,0 +1,1 @@
+# [Методы искусственного интеллекта (курс на openedu от ИТМО, 2023)](https://apps.openedu.ru/learning/course/course-v1:ITMOUniversity+AIMETHODS+spring_2023_ITMO_bac/home)
